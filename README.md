@@ -58,5 +58,17 @@
    git push origin master
    ```
 
-   
 
+
+
+### 关于.gitignore
+
+用于忽略各种语言产生的编译文件，现阶段已添加的忽略规则覆盖以下语言
+
+- Python
+- R
+- Perl
+- Java
+- C/C++
+
+若使用其他语言进行编程，请参考[GitHub官方.gitignore](https://github.com/github/gitignore)自行添加规则
