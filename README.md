@@ -14,7 +14,7 @@
 
 ### Git的简单使用
 
-<img src="https://d1dwq032kyr03c.cloudfront.net/upload/images/20181017/20110334Zr0YyqauG2.png" style="width: 40%; text-align: center">
+<p align="left"><img src="https://d1dwq032kyr03c.cloudfront.net/upload/images/20181017/20110334Zr0YyqauG2.png" width="300"></p>
 
 [什么是Git？](http://blog.a0z.me/2014/05/21/GitBeginning/)
 
